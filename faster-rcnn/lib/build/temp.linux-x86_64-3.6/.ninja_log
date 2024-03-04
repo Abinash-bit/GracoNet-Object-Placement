@@ -1,0 +1,13 @@
+# ninja log v5
+1	11383	1709537798249652619	/home/zclap/research/GracoNet-Object-Placement/faster-rcnn/lib/build/temp.linux-x86_64-3.6/home/zclap/research/GracoNet-Object-Placement/faster-rcnn/lib/model/csrc/cuda/nms.o	ca0286593e87840
+1	11427	1709537798293652757	/home/zclap/research/GracoNet-Object-Placement/faster-rcnn/lib/build/temp.linux-x86_64-3.6/home/zclap/research/GracoNet-Object-Placement/faster-rcnn/lib/model/csrc/cuda/ROIPool_cuda.o	26c39da691b422be
+1	11449	1709537798317652832	/home/zclap/research/GracoNet-Object-Placement/faster-rcnn/lib/build/temp.linux-x86_64-3.6/home/zclap/research/GracoNet-Object-Placement/faster-rcnn/lib/model/csrc/cuda/ROIAlign_cuda.o	1991150a80448f22
+0	18653	1709537805517675410	/home/zclap/research/GracoNet-Object-Placement/faster-rcnn/lib/build/temp.linux-x86_64-3.6/home/zclap/research/GracoNet-Object-Placement/faster-rcnn/lib/model/csrc/cpu/ROIAlign_cpu.o	36d86dc89ee468f8
+0	18781	1709537805645675812	/home/zclap/research/GracoNet-Object-Placement/faster-rcnn/lib/build/temp.linux-x86_64-3.6/home/zclap/research/GracoNet-Object-Placement/faster-rcnn/lib/model/csrc/cpu/nms_cpu.o	8fa97d7281a12114
+0	22668	1709537809525687980	/home/zclap/research/GracoNet-Object-Placement/faster-rcnn/lib/build/temp.linux-x86_64-3.6/home/zclap/research/GracoNet-Object-Placement/faster-rcnn/lib/model/csrc/vision.o	6f8aaba9efb85fb3
+3	11069	1709537821265724795	/home/zclap/research/GracoNet-Object-Placement/faster-rcnn/lib/build/temp.linux-x86_64-3.6/home/zclap/research/GracoNet-Object-Placement/faster-rcnn/lib/model/csrc/cuda/ROIAlign_cuda.o	d4eb3fbd1273f567
+3	11104	1709537821301724908	/home/zclap/research/GracoNet-Object-Placement/faster-rcnn/lib/build/temp.linux-x86_64-3.6/home/zclap/research/GracoNet-Object-Placement/faster-rcnn/lib/model/csrc/cuda/nms.o	cb4350019f84ea60
+3	11200	1709537821397725209	/home/zclap/research/GracoNet-Object-Placement/faster-rcnn/lib/build/temp.linux-x86_64-3.6/home/zclap/research/GracoNet-Object-Placement/faster-rcnn/lib/model/csrc/cuda/ROIPool_cuda.o	52863267b0385d15
+2	18565	1709537828761748301	/home/zclap/research/GracoNet-Object-Placement/faster-rcnn/lib/build/temp.linux-x86_64-3.6/home/zclap/research/GracoNet-Object-Placement/faster-rcnn/lib/model/csrc/cpu/ROIAlign_cpu.o	3590bd79a50b757d
+2	18912	1709537829105749380	/home/zclap/research/GracoNet-Object-Placement/faster-rcnn/lib/build/temp.linux-x86_64-3.6/home/zclap/research/GracoNet-Object-Placement/faster-rcnn/lib/model/csrc/cpu/nms_cpu.o	deddec7a286dfaf6
+2	22557	1709537832745760795	/home/zclap/research/GracoNet-Object-Placement/faster-rcnn/lib/build/temp.linux-x86_64-3.6/home/zclap/research/GracoNet-Object-Placement/faster-rcnn/lib/model/csrc/vision.o	9efd42467d4e99bb
